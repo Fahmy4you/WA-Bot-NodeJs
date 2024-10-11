@@ -1,0 +1,19 @@
+{
+  "name": "mywabot",
+  "version": "1.0.0",
+  "description": "Script Membuat Wa Bot",
+  "main": "app.js",
+  "scripts": {
+    "project": "node app.js"
+  },
+  "author": "Fahmy 4you",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.5.0",
+    "dotenv": "^16.3.1",
+    "fs-extra": "^11.1.1",
+    "openai": "^4.15.4",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
